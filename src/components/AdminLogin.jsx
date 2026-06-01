@@ -12,7 +12,7 @@ function AdminLogin({ setScreen }) {
           </div>
 
           <div>
-            <h1>Verdinho 2</h1>
+            <h1>Verdinho </h1>
 
             <p>
               Painel Administrativo
